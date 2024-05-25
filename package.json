@@ -1,0 +1,25 @@
+{
+  "name": "exmachina",
+  "version": "0.0.1",
+  "description": "A FSM module for the web",
+  "main": "exmachina.mjs",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cthulhuology/exmachina.git"
+  },
+  "keywords": [
+    "finite",
+    "state",
+    "machine",
+    "web"
+  ],
+  "author": "Dave Goehrig <dave@dloh.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cthulhuology/exmachina/issues"
+  },
+  "homepage": "https://github.com/cthulhuology/exmachina#readme"
+}
